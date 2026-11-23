@@ -1,0 +1,38 @@
+Rows: 100,000 | Orders from 2010-01-01 to 2017-07-28
+Total revenue : 133.61 bn
+Total cost    : 94.20 bn
+Total profit  : 39.41 bn  (margin 29.5%)
+Avg unit price: 266.70
+
+Profit by region
+                                    Profit_bn  Margin_%   Orders
+Region                                                         
+Sub-Saharan Africa                     10.31     29.48  26019.0
+Europe                                 10.08     29.44  25877.0
+Asia                                    5.71     29.58  14547.0
+Middle East and North Africa            4.98     29.43  12580.0
+Central America and the Caribbean       4.29     29.46  10731.0
+Australia and Oceania                   3.18     29.67   8113.0
+North America                           0.87     29.71   2133.0 
+
+Profit by item type
+                  Profit_bn  Margin_%
+Item Type                           
+Cosmetics             7.29     39.77
+Household             6.87     24.80
+Office Supplies       5.34     19.39
+Baby Food             4.02     37.55
+Cereal                3.74     43.07
+Clothes               3.07     67.20
+Vegetables            2.60     40.98
+Meat                  2.39     13.56
+Snacks                2.30     36.14
+Personal Care         1.04     30.66
+Beverages             0.65     33.00
+Fruits                0.10     25.83 
+
+Profit by sales channel
+                Profit_bn   Orders
+Sales Channel                    
+Offline            19.69  49946.0
+Online             19.72  50054.0
